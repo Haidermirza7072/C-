@@ -39,11 +39,3 @@ Tracks the total number of trains added.
 <img src="../Output_images/Railway_1.png" alt="1">
 <img src="../Output_images/Railway_2.png" alt="1">
 <img src="../Output_images/Railway_3.png" alt="1">
-
-
-If you want, bhai, I can also:
-
-✅ Generate **output screenshots style images**  
-✅ Make the README more **colourful, fancy or professional**  
-✅ Add **badges, GitHub buttons, version info**  
-Just tell me!
